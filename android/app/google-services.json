@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1046012264416-mh7dgm8cv3ovjmho73sjperifjiikv04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skincare_project",
+            "certificate_hash": "8bb47e10cc160f16b7e71a61081f318357039acd"
+          }
+        },
+        {
           "client_id": "1046012264416-kv0ca6tdqeh1jkd3eqgprbq0qbskg4p1.apps.googleusercontent.com",
           "client_type": 3
         }
